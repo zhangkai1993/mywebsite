@@ -1,0 +1,18 @@
+body {
+  padding-top: : 50px;
+}
+
+.jumbotron{
+		background: url(../images/bg-blue.jpg) no-repeat;
+}
+
+footer{
+	position: absolute;
+	background: #f4f4f4;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
+	overflow: auto;
+}
